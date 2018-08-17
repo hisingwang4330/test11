@@ -15,7 +15,6 @@
 		5BB0D74C20E8CC4500A3B302 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0D74B20E8CC4500A3B302 /* main.m */; };
 		5BB0D75620E8CC4500A3B302 /* dddTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0D75520E8CC4500A3B302 /* dddTests.m */; };
 		5BB0D76120E8CC4500A3B302 /* dddUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0D76020E8CC4500A3B302 /* dddUITests.m */; };
-		5BB0D77020E8CCFF00A3B302 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0D76F20E8CCFF00A3B302 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		5BB0D75C20E8CC4500A3B302 /* dddUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dddUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BB0D76020E8CC4500A3B302 /* dddUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dddUITests.m; sourceTree = "<group>"; };
 		5BB0D76220E8CC4500A3B302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BB0D76E20E8CCFF00A3B302 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Test.h; path = ../../../../JmoVxia/Desktop/hhahh/ddd/Test.h; sourceTree = "<group>"; };
-		5BB0D76F20E8CCFF00A3B302 /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Test.m; path = ../../../../JmoVxia/Desktop/hhahh/ddd/Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +105,6 @@
 				5BB0D73D20E8CC4400A3B302 /* AppDelegate.m */,
 				5BB0D73F20E8CC4400A3B302 /* ViewController.h */,
 				5BB0D74020E8CC4400A3B302 /* ViewController.m */,
-				5BB0D76E20E8CCFF00A3B302 /* Test.h */,
-				5BB0D76F20E8CCFF00A3B302 /* Test.m */,
 				5BB0D74220E8CC4400A3B302 /* Main.storyboard */,
 				5BB0D74520E8CC4500A3B302 /* Assets.xcassets */,
 				5BB0D74720E8CC4500A3B302 /* LaunchScreen.storyboard */,
@@ -268,7 +263,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BB0D74120E8CC4400A3B302 /* ViewController.m in Sources */,
-				5BB0D77020E8CCFF00A3B302 /* Test.m in Sources */,
 				5BB0D74C20E8CC4500A3B302 /* main.m in Sources */,
 				5BB0D73E20E8CC4400A3B302 /* AppDelegate.m in Sources */,
 			);
